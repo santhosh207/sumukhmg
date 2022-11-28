@@ -29,7 +29,7 @@
   <a href="https://twitter.com/sumukhmg">
   <img align="center" src="https://img.shields.io/twitter/follow/sumukhmg?label=Twitter&logo=twitter&style=for-the-badge" />  
 </a>
-  <a href="https://www.linkedin.com/in/sumukh-mg/">
+  <a href="https://www.linkedin.com/in/santhosh-s-1a82a4221/">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  </p>
@@ -44,9 +44,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumukhmg&layout=compact)](https://github.com/santhosh207) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh207&layout=compact)](https://github.com/santhosh207) </br>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=samthosh207.santhosh207)](https://santhosh207/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=santhosh207.santhosh207)](https://santhosh207/)
   
 [![Santhosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhosh207&theme=dracula)](https://github.com/santhosh207/github-readme-activity-graph)
 
