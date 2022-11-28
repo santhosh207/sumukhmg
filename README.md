@@ -26,8 +26,8 @@
 ### 🤝 Connect with me:
 
 <p align="center">
-  <a href="https://twitter.com/sumukhmg">
-  <img align="center" src="https://img.shields.io/twitter/follow/sumukhmg?label=Twitter&logo=twitter&style=for-the-badge" />  
+  <a href="https://twitter.com/Santhos51581719">
+  <img align="center" src="https://img.shields.io/twitter/follow/santhosh207?label=Twitter&logo=twitter&style=for-the-badge" />  
 </a>
   <a href="https://www.linkedin.com/in/santhosh-s-1a82a4221/">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -37,7 +37,7 @@
 
 ## 📈 GitHub Stats 
 
-[![Santhosh's github stats](https://github-readme-stats.vercel.app/api?username=sumukhmg)](https://github.com/santhosh207)
+[![Santhosh's github stats](https://github-readme-stats.vercel.app/api?username=santhosh207)](https://github.com/santhosh207)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhosh207)](https://git.io/streak-stats)
 
