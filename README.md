@@ -11,6 +11,7 @@
 
  💻 Technical Skills <br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,16 +37,16 @@
 
 ## 📈 GitHub Stats 
 
-[![Sumukh's github stats](https://github-readme-stats.vercel.app/api?username=sumukhmg)](https://github.com/sumukhmg)
+[![Santhosh's github stats](https://github-readme-stats.vercel.app/api?username=sumukhmg)](https://github.com/santhosh207)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumukhmg)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhosh207)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumukhmg&layout=compact)](https://github.com/sumukhmg) </br>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=sumukhmg.sumukhmg)](https://sumukhmg/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumukhmg&layout=compact)](https://github.com/santhosh207) </br>
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=samthosh207.santhosh207)](https://santhosh207/)
   
-[![Sumukh Mg's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumukhmg&theme=dracula)](https://github.com/sumukhmg/github-readme-activity-graph)
+[![Santhosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhosh207&theme=dracula)](https://github.com/santhosh207/github-readme-activity-graph)
 
